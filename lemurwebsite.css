@@ -1,13 +1,13 @@
 h1 {
-	font-type: Impact;
+	font-family: Impact;
 	color: #D4AF37;
 	}
 h2 {
-	font-type: Arial;
+	font-family: Arial;
 	color: #D4AF37
 	}
 ul {
-	font-type: Georgia;
+	font-family: Georgia;
 }
 * {
 	background-color: #D3D3D3
