@@ -1,0 +1,87 @@
+body {
+	background-color: #E6E4E0;
+}
+
+img{
+  	width: 1100px;
+  	height: 300px;
+  	float: right;
+  	z-index: -1;
+  	position: absolute;
+  	right: 0px;
+  	top: 50px;
+}
+
+h1 {
+	font-family: 'Poiret One', cursive;
+	font-weight: 800;
+  	font-size: 70px;
+	color: #1F1F5C
+}
+
+h2 { 
+	color: #932573
+	font-family: 'Poiret One', cursive;
+}
+
+.nav_list{
+	float: left;
+	list-style-type: none;
+	z-index: 1;
+	display: inline-block;
+}
+
+.nav_item{
+	color: #E6E4E0;
+	display: inline-block;
+	width: 230px;
+	height: 80px;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 1px;
+	font-family: Arial;
+	margin-top: 15px;
+}
+
+.background_bar{
+	background-color: #1F1F5C;
+	float: left;
+	height: 80px;
+	margin-top: 120px;
+}
+
+.nameheader{
+	float: left;
+	margin-top: 140px;
+	margin-left: 130px;
+}
+
+ul li a{
+  	color: #E6E4E0;
+}
+
+ul li a:hover{
+  	color: #DDDF5D;
+}
+
+p {
+	font-family: Helvetica;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #932573;
+}
+
+header {
+	text-align: right;
+  	float: right;
+  	position: absolute;
+  	right: 20px;
+  	top: 10px;
+}
