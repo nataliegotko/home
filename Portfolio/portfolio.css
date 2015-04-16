@@ -4,7 +4,7 @@ body {
 
 img{
   	width: 1100px;
-  	height: 300px;
+  	height: 400px;
   	float: right;
   	z-index: -1;
   	position: absolute;
@@ -14,7 +14,7 @@ img{
 
 h1 {
 	font-family: 'Life Savers';
-  	font-size: 70px;
+  	font-size: 80px;
 	color: #1F1F5C
 }
 
@@ -33,7 +33,7 @@ h1 {
 	text-align: center;
 	font-size: 20px;
 	border-radius: 1px;
-	font-family: Arial;
+	font-family: Palatino;
 	margin-top: 15px;
 }
 
@@ -41,12 +41,13 @@ h1 {
 	background-color: #1F1F5C;
 	float: left;
 	height: 80px;
-	margin-top: 120px;
+	margin-top: 150px;
+	left: 0px;
 }
 
 .nameheader{
 	float: left;
-	margin-top: 140px;
+	margin-top: 210px;
 	margin-left: 130px;
 }
 
@@ -59,7 +60,7 @@ ul li a:hover{
 }
 
 p {
-	font-family: Helvetica;
+	font-family: Palatino;
 }
 
 a {
