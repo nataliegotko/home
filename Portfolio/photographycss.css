@@ -2,17 +2,11 @@ body {
 	background-color: #E6E4E0;
 }
 h1 {
-	font-family: 'Life Savers';
+	font-family: 'Fredericka the Great';
   	font-size: 80px;
 	color: #1F1F5C
 }
-image {
-	width: 6px;
-	height: 4px;
-}
-footer {
-	text-align: center;
-}
+
 .nav_list{
 	float: left;
 	list-style-type: none;
@@ -34,16 +28,16 @@ footer {
 
 .background_bar{
 	background-color: #1F1F5C;
-	float: left;
+	float: right;
 	height: 80px;
-	margin-top: 150px;
+	margin-top: 0px;
 	left: 0px;
 }
 
 .nameheader{
 	float: left;
-	margin-top: 210px;
-	margin-left: 130px;
+	margin-top: 50px;
+	margin-left: 0px;
 }
 
 ul li a{
@@ -58,12 +52,28 @@ p {
 	font-family: Palatino;
 }
 
-a {
-	color: black;
-	text-decoration: none;
+img {
+    height: auto;
+    width: 393px;
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
 }
 
+a{
+	text-decoration: none;
+	color: black;
+	}
+	
 a:hover {
 	text-decoration: none;
 	color: #932573;
+}
+
+header {
+	text-align: right;
+  	float: right;
+  	position: absolute;
+  	right: 20px;
+  	top: 10px;
 }

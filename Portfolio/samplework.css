@@ -2,16 +2,6 @@ body {
 	background-color: #E6E4E0;
 }
 
-img{
-  	width: 1100px;
-  	height: 400px;
-  	float: right;
-  	z-index: -1;
-  	position: absolute;
-  	right: 0px;
-  	top: 50px;
-}
-
 h1 {
 	font-family: 'Fredericka the Great';
   	font-size: 80px;
@@ -39,16 +29,16 @@ h1 {
 
 .background_bar{
 	background-color: #1F1F5C;
-	float: left;
+	float: right;
 	height: 80px;
-	margin-top: 150px;
+	margin-top: 0px;
 	left: 0px;
 }
 
 .nameheader{
 	float: left;
-	margin-top: 210px;
-	margin-left: 130px;
+	margin-top: 50px;
+	margin-left: 0px;
 }
 
 ul li a{
@@ -61,23 +51,28 @@ ul li a:hover{
 
 p {
 	font-family: Palatino;
-	text-align: center;
 }
 
-a {
-	color: black;
+h2 {
+	font-family: Palatino;
+	color: #932573;
+}
+
+.title {
+	font-family: Palatino;
+	color: #932573;
+}
+
+a{
 	text-decoration: none;
-}
-
+	color: black;
+	}
+	
 a:hover {
 	text-decoration: none;
 	color: #932573;
 }
 
-header {
-	text-align: right;
-  	float: right;
-  	position: absolute;
-  	right: 20px;
-  	top: 10px;
+footer {
+	text-align: center;
 }
