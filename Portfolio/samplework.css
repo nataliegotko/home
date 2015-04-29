@@ -73,8 +73,6 @@ header {
 
 h2 {
 	color: #932573;
-	font: 'Lora';
-	font-weight: 700;
 }
 
 h3 {
@@ -87,7 +85,7 @@ h3 {
 	height: 600px;
 	display: block;
 	float: right;
-	margin-top: 40px; 
+	margin-top: 60px; 
 	margin-right: 150px; 
 }
 
@@ -111,10 +109,11 @@ img {
 }
 
 .title {
-	font-family: Georgia;
+	font-family: 'Lora';
 	font-size: 20px;
-	text-align: left;
+	text-align: center;
 	margin-top: 20px; 
+	font-weight: 700;
 }
 
 .description {
@@ -124,5 +123,6 @@ img {
 	text-align: left;
 	margin-left: 30px; 
 	margin-top: -10px; 
-	margin-bottom: 110px; 
+	margin-bottom: 130px; 
 }
+
