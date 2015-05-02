@@ -78,22 +78,25 @@ h2 {
 h3 {
 	font-family: 'Lora';
 	font-weight: 400;
+	margin-left: -50px; 
 }
 
 .text {
-	width: 550px;
+	width: 480px;
 	height: 600px;
 	float: right;
 	margin-top: 70px;
 	margin-right: 150px; 
+	margin-left: -10px; 
 }
 
 .thumbnail {
-	width: 250px;
+	width: 300px;
 	height: 850px;
 	float: left;
 	margin-top: 20px;
 	margin-left: 250px; 
+	padding-bottom: 20px; 
 }
 
 img {
@@ -103,7 +106,7 @@ img {
     display: block;
     margin-top: 0px;
     margin-bottom: 20px; 
-    padding-left: 25px;
+    margin-left: 30px;
 }
 
 .title {
@@ -115,16 +118,114 @@ img {
 	clear: right;
 	width: 200px; 
 	text-align: center; 
+	padding-left: 10px;
 }
 
-.description {
+.description1 {
 	font-family: 'Raleway';
 	font-weight: 400;
 	font-size: 15px;
 	text-align: left;
-	margin-left: 20px; 
-	margin-top: -10px;
+	margin-left: -20px; 
+	margin-top: -15px;
 	margin-bottom: 170px; 
+}
+
+.description2 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 53px; 
+}
+
+.description3 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 60px; 
+}
+
+.description4 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 120px; 
+}
+
+.description5 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 120px; 
+}
+
+.description6 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 110px; 
+}
+
+.description7 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 120px; 
+}
+
+.description8 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 120px; 
+}
+
+.description9 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+	margin-bottom: 110px; 
+}
+
+.description10 {
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: left;
+	margin-left: -20px; 
+	margin-top: -15px;
+}
+
+.videoimage img {
+	width: 220px; 
+	height: auto;
+	margin-left: 0px; 
+	margin-bottom: 60px; 
+	border: 3px solid black;
 }
 
 
